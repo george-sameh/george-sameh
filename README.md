@@ -25,7 +25,6 @@
 ---
 
 ### 🌐 Web Projects
-- 🔭 **Featured Project:** [Skilspire Suez Website](https://skilspire-suez.pages.dev/)
 - 👨‍💻 **Web Portfolio:** [george-sameh.pages.dev](https://george-sameh.pages.dev)
 
 ---
