@@ -26,6 +26,7 @@
 
 ### 🌐 Web Projects
 - 👨‍💻 **Web Portfolio:** [george-sameh.pages.dev](https://george-sameh.pages.dev)
+- 🥗 **Smart Meal:** [smart-meal.pages.dev](https://smart-meal.pages.dev)
 
 ---
 
